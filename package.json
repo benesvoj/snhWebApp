@@ -1,0 +1,19 @@
+{
+  "name": "snhwebapp",
+  "version": "1.0.0",
+  "description": "Web Application for SNH of Czech Handball Union",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benesvoj/snhWebApp.git"
+  },
+  "author": "Vojtech Benes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benesvoj/snhWebApp/issues"
+  },
+  "homepage": "https://github.com/benesvoj/snhWebApp#readme"
+}
