@@ -1,0 +1,56 @@
+.sidebar{
+  position: absolute;
+  width: 48px;
+  height: 900px;
+  left: 0px;
+  top: 0px;
+  background: #163f73;
+}
+
+.navigation {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #163f73;
+}
+.fa-users {
+  margin-top: 20px;
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  top: 3px;
+  border-radius: 0px;
+  color: #DADADA;
+}
+.fa-trophy {
+  margin-top: 20px;
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  top: 3px;
+  border-radius: 0px;
+  color: #DADADA;
+}
+.fa-tools {
+  margin-top: 20px;
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  top: 3px;
+  border-radius: 0px;
+  color: #DADADA;
+}
+
+.fa-users-cog {
+  margin-top: 20px;
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  top: 3px;
+  border-radius: 0px;
+  color: #DADADA;
+}
